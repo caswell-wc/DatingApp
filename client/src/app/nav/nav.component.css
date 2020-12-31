@@ -1,3 +1,6 @@
 .dropdown-toggle, .dropdown-item {
     cursor: pointer;
 }
+.me-auto {
+    margin-right: auto!important;
+}
